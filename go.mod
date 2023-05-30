@@ -1,4 +1,4 @@
-module github.com/oSethoum/gorm/sqlite
+module github.com/oSethoum/sqlite3
 
 go 1.20
 

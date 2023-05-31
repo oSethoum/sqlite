@@ -6,7 +6,7 @@
 
 ```go
 import (
-  "github.com/oSethoum/sqlite3"
+  "github.com/oSethoum/sqlite"
   "gorm.io/gorm"
 )
 
